@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589825748 source:e:\exercicios programaçao\c\calculator\main.c
+	<stdio.h>
+	<stdbool.h>
+
+1589825940 source:e:\exercicios programaçao\c\calculator\funcoes.c
+	<stdio.h>
+	<stdbool.h>
+
